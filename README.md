@@ -1,2 +1,7 @@
-# cardiacs-lsd-epub
-An unofficial accessible remastering of The Story of LSD Cardiacs eBook
+# The Story of LSD - CARDIACS
+
+An unofficial remastering of The Story of LSD Cardiacs eBook, formatted for accessibility.
+
+Story by Sean Kitching, original design by Michael Chapman. You can get the [proper version](https://www.cardiacs.net/thestoryoflsd/) here.
+
+The original layout is lovely, but hard on my eyes. So I reformatted it as a bare-bones ePub version. [Download it]() here.
